@@ -1,5 +1,9 @@
 # 🎮 Tic Tac Toe — Full Stack Game
 
+## 🎮 Live Demo
+
+[Play Tic Tac Toe](https://tic-tac-toe-six-lyart-4nrvc04fxz.vercel.app/)
+
 A full-stack Tic Tac Toe game built using **React.js** for the frontend and **Python FastAPI** for the backend.
 
 The project demonstrates how a React frontend communicates with a Python backend through REST APIs.
